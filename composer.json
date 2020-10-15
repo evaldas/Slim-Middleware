@@ -1,5 +1,5 @@
 {
-    "name": "slim/middleware",
+    "name": "evaldas/middleware",
     "type": "library",
     "description": "Slim Framework middleware",
     "keywords": ["slim", "middleware"],
